@@ -3,6 +3,8 @@ Auxiliary functions for database manipulation.
 TODO: Make this a class with a single db connection.
 '''
 
+# aa
+
 import psycopg2 as pg
 import time
 import pandas as pd
